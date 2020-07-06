@@ -1,6 +1,8 @@
 # About this class
 
-WARNING: this is a work in progress. Jum
+WARNING: this is a work in progress.
+
+Jump to [Covid info](#covid).
 
 This repo tracks information and policies for our
 class: Yale's MGT656 in the Fall of 2020.
