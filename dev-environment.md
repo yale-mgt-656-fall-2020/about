@@ -9,25 +9,24 @@ writing Go, HTML, CSS, and JavaScript. We'll
 be using Git for version control.
 
 Your development environment can either be
-on your
-personal computer or you can use a 
+a 
 [AWS Cloud9](https://aws.amazon.com/cloud9/) environment
-provided by the instructor (including the cost 😉).
+provided by the instructor (including the cost 😉)
+or
+your
+personal computer.
 There are tradeoffs between these. Setting up your
 personal computer is a wonderful learning experience. However, it can be 
 sometimes be challenging. 
 
-You are free to use either your computer or Cloud9.
-If you'd like a Cloud9 environment, you need only 
-tell the instructor. An announcement will be made
-in class.
-
 Below, you will find documentation on how to get
-started on mac, windows, and Cloud9. **Unless you are
-feeling cocky, we recommend you use cloud9 during the
+started on cloud9, mac, and windows. **Unless you are
+feeling self-assured, we recommend you use cloud9 during the
 Fall 2020 semester because, with social distancing it 
 will be difficult for us to troubleshoot problems you
-encounter on your local computer.)
+encounter on your local computer.) The options are mutually
+exclusive: if you're using Cloud9, you don't need to follow
+the instructions for Mac or Windows and vice versa.
 
 ### Cloud9
 
