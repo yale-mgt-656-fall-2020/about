@@ -36,8 +36,8 @@ depending on the state of the quiz. A button that says
 "Begin Quiz" will appear if you can take the the quiz.
 
 In this semester, each quiz has a
-duration of 20 minutes. Once you begin a quiz, you can change
-your answers until either 20 minutes after you began the
+duration of 15 minutes. Once you begin a quiz, you can change
+your answers until either 15 minutes after you began the
 quiz, or the closing time of the quiz, which is usually the
 beginning of class. So, if you start a quiz five minutes
 prior to class, you will only have five minutes to submit
