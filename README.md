@@ -41,8 +41,7 @@ these forms online (somewhere).
 ## <a name="covid"></a>Covid dystopia clusterfarce 2020
 
 Yale SOM is doing its utmost to ensure you, students, have the best
-possible experience this fall. If I had a dime for every meeting I've
-been dragged into discussing how to make your experience best....
+possible experience this fall. 
 
 Many details are still "up in the air" as I am writing this document.
 You should refer to official lines of communication (instead of
