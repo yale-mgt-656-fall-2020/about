@@ -46,6 +46,15 @@ the instructions for Mac or Windows and vice versa.
    [Amazon Linux](https://aws.amazon.com/amazon-linux-ami/). You have
    git already installed and, clearly, Cloud9 has a built-in code editor.
 
+Here are some helpful videos related to Cloud9:
+
+* [How to log into Cloud9](https://s3.amazonaws.com/files.656.mba/cloud9-intro.mp4).
+  (That was recorded last year, so some of the offhand remarks might 
+  not apply to this semester).
+* How to navigate around on the shell. This shows the basic commands you'll need
+  again and again. TODO: add video
+* How to kill programs on cloud9 (and run them, to a lesser extent). TODO: add video.
+
 ### Mac
 
 1. [Install Go](https://golang.org/doc/install)
