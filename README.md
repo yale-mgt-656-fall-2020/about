@@ -128,4 +128,4 @@ changes yourself---please send me a pull request. Similarly,
 if you feel these documents are lacking, please open an
 "issue" on GitHub for this repo and we'll address the
 issue. Finally, because our git repo is hosted on GitHub, you
-can easily receive push notifications of changes to this repo.
+can easily receive push notifications of changes to this repo. (Woot!)
