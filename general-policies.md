@@ -102,7 +102,8 @@ more of the following resources.
 
 The default branch in git (and on GitHub) is, by convention, called the
 "master" branch. Many developers are trying to use a different default
-branch name because of etymological ties of the term "master" to slavery.
+branch name because of the etymological ties of the term "master" and the
+abhorrent practice of slavery.
 You can read more about this
 movement [here](https://www.bbc.com/news/technology-53050955),
 [here](https://tools.ietf.org/id/draft-knodel-terminology-00.html#rfc.section.1.1),
