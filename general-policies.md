@@ -98,6 +98,21 @@ more of the following resources.
 - [Yale's Live Safe App](https://your.yale.edu/community/public-safety/campus-safety-services/livesafe-app)
 - [Office for Equal Opportunity Programs](https://equalopportunity.yale.edu/)
 
+### Use of "master" in git repositories
+
+The default branch in git (and on GitHub) is, by convention, called the
+"master" branch. Many developers are trying to use a different default
+branch name because of etymological ties of the term "master" to slavery.
+You can read more about this
+movement [here](https://www.bbc.com/news/technology-53050955),
+[here](https://tools.ietf.org/id/draft-knodel-terminology-00.html#rfc.section.1.1),
+and
+[here](https://english.stackexchange.com/questions/474419/does-the-term-master-in-git-the-vc-system-refer-to-slavery).
+All of the repositories in this class use the default "master" name.
+(There's no concept of a "slave" branch in git, though there was such
+a thing [in one of git's predecessors](https://mail.gnome.org/archives/desktop-devel-list/2019-May/msg00066.html).
+I hope by next year to move everything to a different default name.
+
 ## Special needs
 
 If you have special needs in the course, please contact
