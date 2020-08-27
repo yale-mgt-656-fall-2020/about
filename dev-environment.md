@@ -30,18 +30,10 @@ the instructions for Mac or Windows and vice versa.
 
 ### Cloud9
 
-1. Tell the instructor you want to use Cloud9. You will receive a link
-   to your environment and your login credentials by email.
-2. Update go and fix a small bug. When you first log into the environment,
-   you should see a command prompt in one of the window panes. (If you
-   don't, click the green plus sign and "New Terminal".) Run the following
-   commands to update Go and fix a small bug related to "code completion".
-
-   ```sh
-   sudo yum update go
-   mkdir -p ~/.c9/gocode
-   GOPATH=$HOME/.c9/gocode go get -u github.com/nsf/gocode && ~/.c9/gocode/bin/gocode
-   ```
+1. Checkout your Dashboard on the [class website](http://656.mba). Therein
+   you should see login credentials for Cloud9. You'll need to supply an
+   account number, username, and password. All that is in your dashboard
+   under the "user secrets" section.
 3. Now you're all set. Your Cloud9 environment uses
    [Amazon Linux](https://aws.amazon.com/amazon-linux-ami/). You have
    git already installed and, clearly, Cloud9 has a built-in code editor.
