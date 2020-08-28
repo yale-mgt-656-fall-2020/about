@@ -66,6 +66,30 @@ you should select the options you desire and then click
 error, the options that you selected will be labeled as "saved",
 so that you have visual confirmation.
 
+## Notes about the quizzes
+
+* The quiz questions are not uniformly drawn from material in
+  the pre-class reading. Some pre-class reading will be over-represented
+  and some under-represented either, usually because of heterogeous
+  importance of the pre-class reading material.
+* We want the quiz questions to test your conceptual understanding.
+  We do not want to ask "gotcha" questions or simple recall questions.
+  However, we will fall short in those aspirations often.
+* Some quiz questions will have obvious answers. We do this in part
+  to remind you of important concepts.
+* If you feel like a quiz questions is unfair or that the answer
+  is wrong, please tell Kyle. It is easy for Kyle to "fix" a bad
+  question.
+* Questions that have multiple correct answers are indicated as
+  such in the class website.
+* There is a timer at the bottom of the page in the quiz UI on 
+  the class website. It shows the *approximate* time you have left
+  to finish your quiz. Please monitor your time.
+* It is 100% fine to google for the answers to quiz questions or to
+  look in the reading material. You may not rely on another human
+  being for real-time support on the quiz and you may not share
+  information about the quiz with other students.
+
 ## Submitting a quiz using the class API
 
 Most people will want to use the class website. If you are a
