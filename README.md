@@ -14,7 +14,8 @@ class: Yale's MGT656 in the Fall of 2020.
 | Course number           | MGT656                                                                    |
 | Units                   | 4 units in Yale College and equivalent elsewhere                          |
 | Enrollment              | Open to all students from all schools at Yale                             |
-| MGT656 Meeting Location | TBD                                                                       |
+| MGT656 Meeting Location | T Th 8:30 AM-9:50 AM EST; Evans Hall Room 4420                            |
+| MGT656 Zoom link        | See Canvas for now. Link is in there.                                     |
 | MGT656 website          | http://656.mba (offline sometimes until semester begins)                  |
 
 
@@ -37,6 +38,9 @@ Officially registering for Yale College students will require a
 form that is signed by your dean and Kyle Jensen. You can print
 these forms online (somewhere).
 
+
+NOTE: in the Fall of 2020 656 will only be open to SOM students.
+(See below.)
 
 ## <a name="covid"></a>Covid dystopia clusterfarce 2020
 
