@@ -5,8 +5,10 @@ WARNING: this is a work in progress.
 | Person          | Role    | Email                    | GitHub Handle |
 | --------------- | ------- | ------------------------ | ------------- |
 | Kyle Jensen     | Faculty | kyle.jensen@yale.edu     | kljensen      |
-| Rachel Sterneck | TA      | rachel.sterneck@yale.edu | rachelbari    |
+| Ileana Valdez   | TA      | ileana.valdez@yale.edu   | valdezileana  |
 | Amy Gong        | TA      | amy.gong@yale.edu        | amy-gong      |
+| Brandon Galang  | TA      | brandon.galang@yale.edu  | bgalang       |
+| Hannah Raid     | Admin   | hannah.riad@yale.edu     |               |
 
 You should feel free to e-mail the teaching staff. Though,
 we'd prefer you use Piazza if you intend to ask a question
