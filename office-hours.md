@@ -12,3 +12,4 @@ Feel free to send an email if these times do not work for you.
 | Person          | Hours            | Location                                                                |
 | --------------- | ---------------- | ----------------------------------------------------------------------- |
 | Kyle Jensen     | TBD | The Interwebs |
+| Ileana Valdez   | 12:30PM-2:30PMEST | https://yale.zoom.us/j/98030791427 |
