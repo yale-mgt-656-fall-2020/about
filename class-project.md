@@ -17,6 +17,9 @@ by the instructors will, every day, test the behavior of your
 application to see what fraction of the specifications have been
 completed.
 
+Teams maybe *four or five persons* in size.
+
+
 ## Project grading
 
 The project will be graded in five separate parts: four sprint reports
