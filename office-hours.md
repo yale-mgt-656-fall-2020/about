@@ -13,4 +13,4 @@ Feel free to send an email if these times do not work for you.
 | --------------- | ---------------- | ----------------------------------------------------------------------- |
 | Kyle Jensen     | 11AM-12PM Mon, 1-2PM Wed | https://yale.zoom.us/j/97223274458 |
 | Ileana Valdez   | 12:30PM-2:30PM EST Fri | https://yale.zoom.us/j/98030791427 |
-| Brandon Galang  | 5-6 PM EST Mon   | https://yale.zoom.us/j/92651034159 |
+| Brandon Galang  | 3-4 PM EST Tues   | https://yale.zoom.us/j/92651034159 |
